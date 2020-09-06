@@ -1,0 +1,29 @@
+@CHARSET "ISO-8859-1";
+
+body
+{
+	background-color:#955251;
+}
+table
+{
+	border: 5px groove;
+}
+tr:nth-child(odd)
+{
+	background-color:red;
+	color:black;
+}
+tr:nth-child(even)
+{
+	background-color:red;
+	color:black;
+}
+th
+{
+	background-color:black;
+	color:white;
+	font-weight:bold;
+}
+
+
+      
